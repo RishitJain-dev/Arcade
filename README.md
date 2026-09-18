@@ -23,3 +23,5 @@ https://lapse.hackclub.com/timelapse/Q73RIrxaUN5i
 
   ## 3. Organised GitHub repo and BOM - 30 minutes
    Made folders in repo and created BOM in google sheets
+
+<img width="1846" height="487" alt="Screenshot 2026-09-19 001551" src="https://github.com/user-attachments/assets/6d8ed439-9e5c-488a-8d55-febc237c0c2d" />
